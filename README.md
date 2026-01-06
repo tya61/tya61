@@ -55,9 +55,11 @@
 ---
 
 ## 📊 GitHub Stats
+## 🧠 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tya61&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tya61&layout=compact&hide_border=true" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tya61&theme=tokyonight" />
