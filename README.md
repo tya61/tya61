@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Abhay Tyagi</h1>
-<h3 align="center">B.Tech IT Student (2026) | Full-Stack Web Developer | Backend & Cloud Enthusiast</h3>
+<h3 align="center">B.Tech IT Student (2026) | Full-Stack Web Developer | Cloud Enthusiast</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,react,nodejs,express,mysql,aws,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,react,nodejs,mysql,aws,git,github,vscode" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 - Passionate about building **real-world web applications**
-- Strong interest in **backend development & cloud technologies**
-- Focused on **clean code, APIs, and scalable systems**
-- Actively preparing for **placements & technical interviews**
+- Strong interest in **backend systems & cloud deployment**
+- Focused on **clean code, scalability, and best practices**
+- Actively preparing for **placements & off-campus opportunities**
 
 ---
 
@@ -19,7 +19,7 @@
 
 ### 🔹 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=java,python" />
 </p>
 
 ### 🔹 Frontend
@@ -29,7 +29,7 @@
 
 ### 🔹 Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql" />
 </p>
 
 ### 🔹 Cloud & Tools
@@ -41,7 +41,7 @@
 
 ## 📌 Featured Projects
 - 🚀 **Smart College Event Management System (SCEMS)**  
-  Full-stack backend system for managing college events
+  Backend-driven system for managing college events and users
 
 - 🧠 **TruScribe – Symptom Checker**  
   React-based application for basic health analysis
